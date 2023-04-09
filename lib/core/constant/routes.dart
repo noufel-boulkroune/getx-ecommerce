@@ -1,3 +1,4 @@
-class AppRoute { 
-  static const String login = "/login" ;  
+class AppRoute {
+  static const String language = "/language";
+  static const String login = "/login";
 }
